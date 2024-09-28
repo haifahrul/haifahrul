@@ -1,11 +1,19 @@
-# 👋 Hallo, I'am Fahrul
+# 👋 Hallo there
+
+I am Fahrul, a Software Engineer from Indonesia. Currently, working as Full Stack Developer.
+
+My Stack:
+
+- Backend: Golang, PHP (Yii2, Laravel Framework), NodeJS
+- Database: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+- Frontend: ReactJS (NextJS), Angular, VueJS (NuxtJS)
+- Mobile: Hybrid using React Native
+- CSS framework: Tailwind, Bootstrap
+- DevOps: Portainer, Docker, Linux
+- CI/CD: Github Actions, Gitlab CI/CD
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=haifahrul&show_icons=true&theme=tokyonight&locale=en" alt="haifahrul" />
-</p>
-
-<p>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haifahrul&layout=compact)
 </p>
 
 <p>
